@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nuyunn/static/css/main.224f8e3a.css",
-    "main.js": "/nuyunn/static/js/main.1adbb457.js",
+    "main.js": "/nuyunn/static/js/main.d7041a3e.js",
     "static/js/453.b6b15274.chunk.js": "/nuyunn/static/js/453.b6b15274.chunk.js",
     "index.html": "/nuyunn/index.html",
     "main.224f8e3a.css.map": "/nuyunn/static/css/main.224f8e3a.css.map",
-    "main.1adbb457.js.map": "/nuyunn/static/js/main.1adbb457.js.map",
+    "main.d7041a3e.js.map": "/nuyunn/static/js/main.d7041a3e.js.map",
     "453.b6b15274.chunk.js.map": "/nuyunn/static/js/453.b6b15274.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.224f8e3a.css",
-    "static/js/main.1adbb457.js"
+    "static/js/main.d7041a3e.js"
   ]
 }
